@@ -1,5 +1,5 @@
-# Telegram bot template installation
-
+# Step-by-step guide for install and run the bot locally
+### Created using [public instagram API](https://rapidapi.com/restyler/api/instagram40)
 ## 1. Clone this repository
 ```
 git clone https://github.com/kirofint/instagram_random_image
@@ -18,4 +18,5 @@ yarn serve
 # Environment variables
 
 - `TOKEN` — Telegram bot token
-- `MONGO`— URL of the mongo database
+- `MONGO` — URL of the mongo database
+- `API_KEY` — you might get it [here](https://rapidapi.com/restyler/api/instagram40)
